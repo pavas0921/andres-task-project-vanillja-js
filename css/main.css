@@ -1,0 +1,35 @@
+.container{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.div-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 350px;
+    background-color: white;
+}
+
+
+#add-task-input{
+    border: none;
+    height: 35px;
+    width: 220px;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#add-button{
+    height: 35px;
+    width: 60px;
+    border-radius: 5px;
+    border: none;
+    background-color: #e95678;
+    color: white;
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
